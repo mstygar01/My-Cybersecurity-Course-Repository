@@ -1,7 +1,7 @@
 # My-Cybersecurity-Course-Repository
 
 # Who am I?
-My name is Monica Stygar - I am a techonology and project professional.  I started off my career as a developer working primarily with C, C++, Unix scripting and Transact SQL. I branched into Business anlysis and then Project Management.  I realized I needed way more business knowledge and started on an MBA. I moved into managing larger projects and eventually into management.  I have a good solid background with a lot of difference experiences I can pull on.
+My name is Monica Stygar - I am a techonology and project professional.  I started off my career as a developer working primarily with C, C++, Unix scripting and Transact SQL. I branched into Business anlysis and then Project Management.  I realized I needed way more business knowledge and started on an MBA. I moved into managing larger projects and eventually into management.  I have a good solid background with rich field of experiences I can pull on.
 
 # Why Cybersecurity
 There came a point where a lot of the jobs I was interested in wanted a person with more knowledge of Cybersecurity than I had.  I also realized, after focusing on management, I needed to invest some time getting back up to speed on the latest technologies.  The Cybersecurity course seemed to fill in a lot of the gaps in my technology background.  And it is a field I could bring a lot of my structured project management experience with me to help businesses successfully run and manage their Cybersecurity initiatives.
